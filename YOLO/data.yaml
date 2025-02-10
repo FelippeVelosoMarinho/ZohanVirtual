@@ -1,0 +1,5 @@
+train: /content/dataset/images/train
+val: /content/dataset/images/val
+
+nc: 10  # Número de classes (1, 2A, 2B, ..., 4C)
+names: ["1", "2A", "2B", "2C", "3A", "3B", "3C", "4A", "4B", "4C"]
